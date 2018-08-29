@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="McDonalds" id="1c7d6287-6f3a-4408-9e7a-d51a2169e93c" version="4.0.0">
+  <folder name="Strategy" id="07c3eaa1-69cb-489c-a061-79946c0b6c48" type="strategy"/>
+  <folder name="Business" id="a1449d0d-d2f9-41d2-a986-6bf051d506d3" type="business"/>
+  <folder name="Application" id="48682b3e-261d-43d2-a6bc-bb8bc691bab1" type="application"/>
+  <folder name="Technology &amp; Physical" id="40338398-b231-4028-87dd-8ba1200a9417" type="technology"/>
+  <folder name="Motivation" id="e5fcd637-05ef-49ad-bcc9-c0737aa2e6a0" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="5e596d5f-0fd2-4dff-b180-71b23cc7b0da" type="implementation_migration"/>
+  <folder name="Other" id="9e8311cd-0a3a-4dc8-9d9d-fb58187ad6b0" type="other"/>
+  <folder name="Relations" id="ce470500-ad44-418c-bb64-a1d3c37464a0" type="relations"/>
+  <folder name="Views" id="4bad8790-d427-4b9e-960a-03743b485525" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="956eff42-76da-40a7-8d56-5a509077093c">
+      <child xsi:type="archimate:Group" id="64f357a2-48eb-4231-8f8f-7639c304ef9d" name="Bussiness" textAlignment="1">
+        <bounds x="45" y="16" width="1552" height="597"/>
+      </child>
+      <child xsi:type="archimate:Group" id="4478b5d7-46f2-4dae-8ed4-b2b061f25e86" name="Aplicacion" textAlignment="1">
+        <bounds x="45" y="672" width="1552" height="597"/>
+      </child>
+      <child xsi:type="archimate:Group" id="ef37dd0a-2187-4e21-89c4-6d969382f309" name="Tecnology" textAlignment="1">
+        <bounds x="45" y="1296" width="1552" height="597"/>
+      </child>
+    </element>
+  </folder>
+</archimate:model>
